@@ -1,0 +1,15 @@
+.img_size{
+    filter: brightness(50%);
+}
+
+.section-margin {
+    margin-bottom: 120px;
+}
+
+.join {
+    padding: 60px;
+}
+
+.img-width {
+    width: 100%;
+}
