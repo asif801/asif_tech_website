@@ -1,3 +1,6 @@
+.body{
+    overflow-x: hidden;
+}
 .img_size {
     filter: brightness(50%);
 }
